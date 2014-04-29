@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-ruby-sass": "^0.4.3",
+    "gulp-livereload": "^1.3.1",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-rename": "^1.2.0"
+  }
+}
